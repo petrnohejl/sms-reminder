@@ -1,0 +1,50 @@
+# SMS REMINDER
+# Datovy soubor programu SMS reminder
+# Copyright (C)2008 Petr Nohejl, jestrab.net
+#
+# format zapisu dat:
+# den::mesic::hodina::minuta::zprava	# komentar
+
+# statni svatky a vyznamne dny
+
+01::01::09::00::Statni svatek: Den obnovy samostatneho ceskeho statu 1993, Novy rok
+06::01::09::00::Vyznamny den: Tri kralove
+27::01::09::00::Vyznamny den: Den pamatky obeti holocaustu a predchazeni zlocinum proti lidskosti
+14::02::09::00::Vyznamny den: Valentyn
+08::03::09::00::Vyznamny den: Mezinarodni den zen
+12::03::09::00::Vyznamny den: Den pripojeni CR do NATO 1999
+21::03::09::00::Vyznamny den: Zacina jaro, jarni rovnodennost, blizi se prechod na letni cas
+28::03::09::00::Vyznamny den: Den ucitelu
+01::04::09::00::Vyznamny den: April :D
+07::04::09::00::Vyznamny den: Den vzdelanosti
+22::04::09::00::Vyznamny den: Den zeme
+01::05::09::00::Vyznamny den: Svatek prace, Den prijeti CR do EU 2004
+04::05::09::00::Vyznamny den: Den hasicu - Sv. Florian
+05::05::09::00::Vyznamny den: Kvetnove povstani ceskeho lidu
+08::05::09::00::Statni svatek: Den vitezstvi - osvobozeni od fasismu 1945
+08::05::09::00::Vyznamny den: Blizi se den matek - druha nedele v kvetnu
+09::05::09::00::Vyznamny den: Den Evropy
+15::05::09::00::Vyznamny den: Den rodin
+31::05::09::00::Vyznamny den: Den nekoureni
+01::06::09::00::Vyznamny den: Mezinarodni Den deti
+10::06::09::00::Vyznamny den: Vyhlazeni obce Lidice
+21::06::09::00::Vyznamny den: Zacina leto, letni slunovrat
+27::06::09::00::Vyznamny den: Den pamatky obeti komunistickeho rezimu
+05::07::09::00::Statni svatek: Den slovanskych verozvestu Cyrila a Metodeje 863
+06::07::09::00::Statni svatek: Den upaleni mistra Jana Husa 1415
+22::09::09::00::Vyznamny den: Den bez aut
+23::09::09::00::Vyznamny den: Zacina podzim, podzimni rovnodennost
+28::09::09::00::Statni svatek: Den ceske statnosti - Sv. Vaclav
+20::10::09::00::Vyznamny den: Den stromu
+21::10::09::00::Vyznamny den: Blizi se prechod na zimni cas
+28::10::09::00::Statni svatek: Den vzniku samostatneho Ceskoslovenskeho statu 1918
+31::10::09::00::Vyznamny den: Helloween
+02::11::09::00::Vyznamny den: Pamatka zesnulych
+11::11::09::00::Vyznamny den: Den valecnych veteranu
+17::11::09::00::Statni svatek: Den boje za svobodu a demokracii 1938, 1989 - Jan Opletal
+05::12::09::00::Vyznamny den: Chodi Sv. Mikulas, andeli a certi ]:->, Den pro pestounskou peci
+21::12::09::00::Vyznamny den: Zacina zima, zimni slunovrat
+24::12::09::00::Vyznamny den: Stedry den
+25::12::09::00::Vyznamny den: Hod Bozi
+26::12::09::00::Vyznamny den: Druhy svatek vanocni
+31::12::09::00::Vyznamny den: Silvestr

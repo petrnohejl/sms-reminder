@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+
+SMS Reminder
+(c) 2008 Petr Nohejl
+
+Reminder zasílá upozornění na události pomocí e-mailových nebo SMS zpráv,
+případně mobilního e-mailu. Pro správnou funkčnost by měl program běžet na
+serveru, který je neustále v provozu, aby mohl zasílat upozornění v kteroukoliv
+dobu. Aplikaci lze využít např. k upozorňování významných dnů, svátků, narozenin
+apod. Události jsou uloženy v textovém souboru. V Unixovém systému lze skript
+spustit na pozadí např. pomocí příkazu nohup.
+
+--------------------------------------------------------------------------------
+
+Instalace:
+
+Reminder je konzolová aplikace (spouští se v příkazovém řádku) a je napsána v
+jazyce Python 2.6. Pro její spuštění je třeba mít nainstalován interpret jazyka
+Python, který lze stáhnout na adrese: www.python.org.
+
+--------------------------------------------------------------------------------
+
+Ovládání: 
+
+Před spuštěním skriptu je potřeba nastavit několik informací pro odesílání
+upozornění na e-mail. Otevřte skript v textovém editoru a nastavte v sekci
+Config: server, login, heslo, e-mail a smtp server. V databázovém souboru
+nastavte jednotlivé události podle vzoru. Nyní můžete spustit skript například
+pomocí příkazu nohup: nohup reminder.py.
+
+--------------------------------------------------------------------------------
